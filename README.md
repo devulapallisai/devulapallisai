@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7443
-Fork on GitHub
-1452
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Sai Prachodhan Devulapalli</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
