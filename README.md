@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Prachodhan Devulapalli</h1>
-<h3>A passionate full stack developer from India. Presently persuing my BTECH in Electrical Engineering at IITH(expected to be passout in 2024).</h3>
+<h3>A passionate full stack developer from India. Presently persuing my BTECH in Electrical Engineering at IITH(expected to be passedout in 2024).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devulapallisai&label=Profile%20views&color=0e75b6&style=flat" alt="devulapallisai" /> </p>
 
