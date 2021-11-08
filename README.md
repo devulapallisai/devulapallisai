@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django,Gatsby**
  
-- 👯 I’m collaborating on [https://gymkhana.iith.ac.in/]**GymkhanaIITH**,**CA Portal Elan IITH**
+- 👯 I’m collaborating on **[https://gymkhana.iith.ac.in/]GymkhanaIITH**,**CA Portal Elan IITH**
 
 - 💬 Ask me about **React,Vue,Flask**
 
