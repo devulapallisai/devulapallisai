@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **devulapallisaiprachodhan26@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1UwR4A864khnQDKvg8uG-qJLXAW7kIGRjF0TG-wAfD54/edit?usp=sharing](https://docs.google.com/document/d/1UwR4A864khnQDKvg8uG-qJLXAW7kIGRjF0TG-wAfD54/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19O4Nr0Ae1KpwmOTOKgZsRJe4RgT0f_l8/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
