@@ -17,7 +17,7 @@
 
 - Check out [My website](https://saiprachodhan.netlify.app/) 
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19O4Nr0Ae1KpwmOTOKgZsRJe4RgT0f_l8/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15pKfBoWF9IIm6ccah3z94trV1Xr0t_iV/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
