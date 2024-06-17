@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devulapallisai" alt="devulapallisai" /></a> </p>
 
-- 🔭 I’m currently working on **Email Labeling project**
-
-- 🌱 I’m currently learning **ExpressJS,Gatsby**
- 
-- 👯 I’m collaborating on <a href="https://gymkhana.iith.ac.in/"><b>GymkhanaIITH</b></a>,**Elan Website**
-
 - 💬 Ask me about **React,Vue,Flask**
 
 - 📫 How to reach me **devulapallisaiprachodhan26@gmail.com**
